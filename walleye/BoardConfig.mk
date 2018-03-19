@@ -20,7 +20,7 @@ DEFAULT_LOW_PERSISTENCE_MODE_BRIGHTNESS := 0x00000056
 include device/google/wahoo/BoardConfig.mk
 -include vendor/google/walleye/BoardConfigVendor.mk
 
-TARGET_KERNEL_CONFIG := lineageos_muskie_defconfig
+TARGET_KERNEL_CONFIG := flash-walleye_defconfig
 BOARD_BOOTIMAGE_PARTITION_SIZE := 33554432
 
 #sepolicy common to muskie/walleye

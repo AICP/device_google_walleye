@@ -3,20 +3,5 @@
     "repository":  "AICP/device_google_wahoo",
     "target_path": "device/google/wahoo",
     "branch":      "o8.1"
-  },
-  {
-    "repository": "LineageOS/android_device_qcom_common",
-    "target_path": "device/qcom/common",
-    "branch":      "lineage-15.1"
-  },
-  {
-    "repository":  "LineageOS/android_kernel_google_wahoo",
-    "target_path": "kernel/google/wahoo",
-    "branch":      "lineage-15.1"
-  },
-  {
-    "repository":  "AICP/proprietary_vendor_google",
-    "target_path": "vendor/google",
-    "branch":      "o8.1"
   }
 ]
